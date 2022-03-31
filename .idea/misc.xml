@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bg_1.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/drawable-v24/filter_background_color.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_delete_red.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_koin_v2.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_no_image.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_sharp_notifications_active_24.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_sort.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/shape_orange_low.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/shape_red_count.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable/bg_1.xml" value="0.325" />
+        <entry key="app/src/main/res/drawable/filter_background_color.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_delete_red.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_koin_v2.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_no_image.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_sharp_notifications_active_24.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/ic_sort.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/shape_orange_low.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/drawable/shape_red_count.xml" value="0.3441025641025641" />
+        <entry key="app/src/main/res/layout/activity_koin_history.xml" value="0.3282051282051282" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_menu1.xml" value="0.2653061224489796" />
+        <entry key="app/src/main/res/layout/dialog_koin_history_filter.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/fragment_koin_list.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/item_koin_history.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/item_notifikasi.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/item_order.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/shape_yellow_low.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/toast_red.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/toast_white.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/widget_bg_1.xml" value="0.3182291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

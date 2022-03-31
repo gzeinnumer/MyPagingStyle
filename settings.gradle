@@ -1,0 +1,2 @@
+rootProject.name = "MyPagingStyle"
+include ':app'
