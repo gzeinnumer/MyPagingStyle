@@ -2,30 +2,19 @@ package com.gzeinnumer.mypagingstyle.helper;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
-import android.content.pm.PackageManager;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Build;
-import android.util.Base64;
 import android.util.Log;
 import android.widget.Toast;
 
 import com.gzeinnumer.bu.utils.MBUtilsDate;
 import com.gzeinnumer.mypagingstyle.BuildConfig;
-import com.gzeinnumer.mypagingstyle.base.BaseConstant;
 
-import java.io.ByteArrayOutputStream;
-import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.List;
 import java.util.Locale;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class GblFunction {
 

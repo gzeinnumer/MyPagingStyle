@@ -2,9 +2,7 @@ package com.gzeinnumer.mypagingstyle.base.dialog;
 
 import android.content.Context;
 import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.fragment.app.FragmentActivity;
@@ -12,11 +10,8 @@ import androidx.fragment.app.FragmentManager;
 
 import com.gzeinnumer.da.constant.ButtonStyle;
 import com.gzeinnumer.da.constant.DialogType;
-import com.gzeinnumer.da.dialog.confirmDialog.ConfirmDialog;
 import com.gzeinnumer.da.dialog.datePickerDialog.multi.MultiDatePickerDialog;
-import com.gzeinnumer.da.dialog.datePickerDialog.single.SingleDatePickerDialog;
 import com.gzeinnumer.da.dialog.infoDialog.InfoDialog;
-import com.gzeinnumer.da.dialog.loadingDialog.LoadingDialog;
 import com.gzeinnumer.mypagingstyle.R;
 
 public class BasePopUp {

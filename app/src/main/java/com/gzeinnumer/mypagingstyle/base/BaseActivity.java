@@ -2,32 +2,21 @@ package com.gzeinnumer.mypagingstyle.base;
 
 import static com.gzeinnumer.mypagingstyle.helper.GblFunction.isDebugActive;
 
-import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import androidx.annotation.Nullable;
-import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
-import com.gzeinnumer.da.dialog.confirmDialog.ConfirmDialog;
-import com.gzeinnumer.da.dialog.datePickerDialog.multi.MultiDatePickerDialog;
-import com.gzeinnumer.da.dialog.datePickerDialog.single.SingleDatePickerDialog;
 import com.gzeinnumer.da.dialog.debug.DebugDialog;
-import com.gzeinnumer.da.dialog.infoDialog.InfoDialog;
 import com.gzeinnumer.da.dialog.loadingDialog.LoadingDialog;
 import com.gzeinnumer.mypagingstyle.R;
 import com.gzeinnumer.mypagingstyle.base.activity.BasePermissionActivity;
 import com.gzeinnumer.mypagingstyle.base.dialog.BasePopUp;
 import com.gzeinnumer.mypagingstyle.helper.GblFunction;
-import com.gzeinnumer.svd.dialog.searchViewDialogNew.SearchViewDialog;
-
-import java.util.ArrayList;
 
 public class BaseActivity extends BasePermissionActivity {
 

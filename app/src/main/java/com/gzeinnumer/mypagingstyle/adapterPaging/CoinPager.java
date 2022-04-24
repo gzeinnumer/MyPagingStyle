@@ -1,16 +1,13 @@
 package com.gzeinnumer.mypagingstyle.adapterPaging;
 
 import static com.gzeinnumer.mypagingstyle.helper.GblFunction.isDebugActive;
-import static com.gzeinnumer.mypagingstyle.helper.GblFunction.saparator;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.AnimationUtils;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;

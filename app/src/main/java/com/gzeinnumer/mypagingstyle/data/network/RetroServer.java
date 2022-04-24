@@ -1,10 +1,7 @@
 package com.gzeinnumer.mypagingstyle.data.network;
 
-import static com.gzeinnumer.mypagingstyle.helper.GblFunction.isDebugActive;
-
 import android.content.Context;
 
-import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
